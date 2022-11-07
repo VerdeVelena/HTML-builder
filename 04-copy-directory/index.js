@@ -1,6 +1,4 @@
-const fs = require("fs");
 const fsPromises = require("node:fs/promises");
-
 const path = require("path");
 
 (async () => {
